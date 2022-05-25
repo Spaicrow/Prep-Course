@@ -1,0 +1,10 @@
+-una variable es el nombre que le damos a una cajita que almazenara informacion.
+-un str es basicamente palabras letras dentro de comillas ojo numeros que esten dentro tambien se consideran como letras.
+-las funciones sirven para simplificar los programas y reutilizarlos podemos ejecutar procesos dentro los cuales 
+puenden tener argumentos dichos argumentos sirven para indicar que es lo que vamos a ejecutar dentro del funcion
+y podemos retornar los resultados atravez de un return.
+-los if es una declaracion, ejemplo de esto seria "si(if) tengo una mazana(1) y me la como(-) cuantas manzanas me quedan(n)"
+entonces se formula la logica de la pregunta y se da una respuesta "sino(else) me comi la manzana" entonces se formulara una
+respuesta negativa o contraria a la logica inicial.
+-los booleanos son afirmaciones si positivas o negativas "verdadero" o "falso" estas afirmaciones son buenas para ejecutar
+procesos logicos que piden una respuesta de caracter afirmativa.
